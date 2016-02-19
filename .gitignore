@@ -66,3 +66,10 @@ eDriven.Playground/obj/
 eDriven.Playground/Unity/bin/
 eDriven.Playground/Unity/obj/
 eDriven.Playground/Unity/Assets/eDriven/Libs/
+=======
+_ReSharper.Unity/
+Backup/
+Library/
+bin/
+obj/
+>>>>>>> 57e56f3eed2a2e66082d5cb6cb0f1d16673ee3f8
